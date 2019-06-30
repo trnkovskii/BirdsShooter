@@ -8,14 +8,14 @@
 
 Почетното мени (сл.1) што се стартува при стартување на играта е со интересен дизајн, кој овозможува стартување на играта **(Click to play)**, пристап до упатството со правила за игра **(How to play)**, прикажување на листата на најдобри резултати **(Best players)**, одбирање на нивото за играта **(Difficulty)** и излез од игра **(Exit game)**. Доколку сакаме да стартуваме нова игра, прво треба да ја избереме едно од трите нивоа на тежина: Easy, Medium и Hard, инаку по дифолт е Easy .
 
- ![](https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+ ![](https://drive.google.com/open?id=173SbJYOmNr7ec4wUaDZO-otmVynEE94F)
 Сл. 1
 
 **2.2 Hоw to play**
 
 Во оваа форма (Сл.2) се чува упатството кое ги содржи правилата на играта.
 
- ![](https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+ ![](https://drive.google.com/file/d/1spPhIPETYx9_S7srHBFTIy5dqDCGkjhc/view?usp=sharing)
 
 
 
@@ -36,14 +36,14 @@
 
 Во овој дел (Сл.3) се чува листа на најдобри поени, подредени по опаѓачки редослед.
 
- ![](https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+ ![](https://drive.google.com/file/d/1oYdKf3ZH3EXFV6djMcS9clBxxwuCskax/view?usp=sharing)
 Сл. 3
 
 **2.4 Игра**
 
 На сл.4 е прикажана интерфејсот на самата игра. Во горниот лев агол постојат копчиња за паузирање на играта и нејзино продолжување, како и за прекинување на играта. На десната страна е сместено преостатаното време, кое се намалува со секоја неубиена птица.
 
- ![](https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+ ![](https://drive.google.com/file/d/1WmbSgPML2HNyU0i75ikNWOhGZWuvmzra/view?usp=sharing)
 
 
 
@@ -54,7 +54,7 @@
 
 По истекувањето на времето се појавува форма **Congratulations** , во која се напишани вкупниот број на освоени поени. Во неа се бара од играчот да го напише неговото име, за да биде ставено во листата на најдобри играчи.
 
- ![](https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+ ![](https://drive.google.com/file/d/1Nk4HU5ypVgQvDE0iB6ruQ07uxicPRhuG/view?usp=sharing)
 1. **Претставување на проблемот**
 
 **3.1 Податочни структури и функции**
