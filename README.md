@@ -8,7 +8,7 @@
 
 Почетното мени (сл.1) што се стартува при стартување на играта е со интересен дизајн, кој овозможува стартување на играта **(Click to play)**, пристап до упатството со правила за игра **(How to play)**, прикажување на листата на најдобри резултати **(Best players)**, одбирање на нивото за играта **(Difficulty)** и излез од игра **(Exit game)**. Доколку сакаме да стартуваме нова игра, прво треба да ја избереме едно од трите нивоа на тежина: Easy, Medium и Hard, инаку по дифолт е Easy .
 
- ![](http://tinypic.com/r/33110fc/9)
+ ![](https://scontent.fskg1-1.fna.fbcdn.net/v/t1.0-0/p206x206/43301699_1721256658001908_2254926992258367488_n.jpg?_nc_cat=110&_nc_oc=AQnw9mYDgOCLqNmCvhDAZRbTkQzr5Zh-PfBCYSlvLBbgCw1MXg-ti9TMI4UohPnhnIo&_nc_ht=scontent.fskg1-1.fna&oh=db0800ba572b9a4ceb29e9a7c79bf1b5&oe=5DC56437)
 Сл. 1
 
 **2.2 Hоw to play**
