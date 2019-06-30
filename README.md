@@ -8,14 +8,14 @@
 
 Почетното мени (сл.1) што се стартува при стартување на играта е со интересен дизајн, кој овозможува стартување на играта **(Click to play)**, пристап до упатството со правила за игра **(How to play)**, прикажување на листата на најдобри резултати **(Best players)**, одбирање на нивото за играта **(Difficulty)** и излез од игра **(Exit game)**. Доколку сакаме да стартуваме нова игра, прво треба да ја избереме едно од трите нивоа на тежина: Easy, Medium и Hard, инаку по дифолт е Easy .
 
- ![](https://scontent.fskg1-1.fna.fbcdn.net/v/t1.0-0/p206x206/43301699_1721256658001908_2254926992258367488_n.jpg?_nc_cat=110&_nc_oc=AQnw9mYDgOCLqNmCvhDAZRbTkQzr5Zh-PfBCYSlvLBbgCw1MXg-ti9TMI4UohPnhnIo&_nc_ht=scontent.fskg1-1.fna&oh=db0800ba572b9a4ceb29e9a7c79bf1b5&oe=5DC56437)
+ ![](https://scontent.fskg1-1.fna.fbcdn.net/v/t1.0-9/65385153_2107435602717343_1707280213471133696_o.jpg?_nc_cat=104&_nc_oc=AQnVO0Hh8Of9FO1inrHSu15ivWTKrLT6TR5jHOdw3oF1oTI8Q_NWbR-nGkrZDduQh0k&_nc_ht=scontent.fskg1-1.fna&oh=817aed598e7250e5a1cab752118e6b49&oe=5DBD770D)
 Сл. 1
 
 **2.2 Hоw to play**
 
 Во оваа форма (Сл.2) се чува упатството кое ги содржи правилата на играта.
 
- ![](https://drive.google.com/file/d/1spPhIPETYx9_S7srHBFTIy5dqDCGkjhc/view?usp=sharing)
+ ![](https://scontent.fskg1-1.fna.fbcdn.net/v/t1.0-9/65546029_2107435506050686_8252546489784467456_n.jpg?_nc_cat=101&_nc_oc=AQkhcuxBz41ml5eVsFprt-BndAiSXAd1vLuC4s6K2A9hQ6nSiOptE-Lr4KglSe8zZmE&_nc_ht=scontent.fskg1-1.fna&oh=629cfb583d2d8be3cfd13e0614ccf0e7&oe=5D879DF5)
 
 
 
@@ -36,14 +36,14 @@
 
 Во овој дел (Сл.3) се чува листа на најдобри поени, подредени по опаѓачки редослед.
 
- ![](https://drive.google.com/file/d/1oYdKf3ZH3EXFV6djMcS9clBxxwuCskax/view?usp=sharing)
+ ![](https://scontent.fskg1-1.fna.fbcdn.net/v/t1.0-9/65281293_2107435489384021_7408129904773955584_n.jpg?_nc_cat=110&_nc_oc=AQl2wVjgas-RTAL9VSvwh7bQTW5Q4Q_UhtQpUNUXpMkLFgjJQlE14aTndY38tTNGfbU&_nc_ht=scontent.fskg1-1.fna&oh=ed90d03f3ff3b1b187c034ba1107205c&oe=5DBE3691)
 Сл. 3
 
 **2.4 Игра**
 
 На сл.4 е прикажана интерфејсот на самата игра. Во горниот лев агол постојат копчиња за паузирање на играта и нејзино продолжување, како и за прекинување на играта. На десната страна е сместено преостатаното време, кое се намалува со секоја неубиена птица.
 
- ![](https://drive.google.com/file/d/1WmbSgPML2HNyU0i75ikNWOhGZWuvmzra/view?usp=sharing)
+ ![](https://scontent.fskg1-1.fna.fbcdn.net/v/t1.0-9/65923420_2107435626050674_302197184596541440_o.jpg?_nc_cat=104&_nc_oc=AQmC8tLdkqeRWVyyaQrnLRFixAtktB3AYH5cjnRXCvLwUVj16lY5EOFXYzZqE2LdhE8&_nc_ht=scontent.fskg1-1.fna&oh=032e58f525db277dc08c2139e1eba6c1&oe=5DB2F3E9)
 
 
 
@@ -54,7 +54,7 @@
 
 По истекувањето на времето се појавува форма **Congratulations** , во која се напишани вкупниот број на освоени поени. Во неа се бара од играчот да го напише неговото име, за да биде ставено во листата на најдобри играчи.
 
- ![](https://drive.google.com/file/d/1Nk4HU5ypVgQvDE0iB6ruQ07uxicPRhuG/view?usp=sharing)
+ ![](https://scontent.fskg1-1.fna.fbcdn.net/v/t1.0-9/65393083_2107435499384020_3475309707097276416_n.jpg?_nc_cat=103&_nc_oc=AQnjh5jH8fEY2wm5CwwDxXpZwbCz6fSw9gnOAuq9Tw_1W0JVO4g1Uz_RgzSJKknMeJA&_nc_ht=scontent.fskg1-1.fna&oh=4944c490458dd446c883aa46971b5a31&oe=5D80A017)
 1. **Претставување на проблемот**
 
 **3.1 Податочни структури и функции**
