@@ -8,14 +8,14 @@
 
 Почетното мени (сл.1) што се стартува при стартување на играта е со интересен дизајн, кој овозможува стартување на играта **(Click to play)**, пристап до упатството со правила за игра **(How to play)**, прикажување на листата на најдобри резултати **(Best players)**, одбирање на нивото за играта **(Difficulty)** и излез од игра **(Exit game)**. Доколку сакаме да стартуваме нова игра, прво треба да ја избереме едно од трите нивоа на тежина: Easy, Medium и Hard, инаку по дифолт е Easy .
 
- ![](https://scontent.fskg1-1.fna.fbcdn.net/v/t1.0-9/65385153_2107435602717343_1707280213471133696_o.jpg?_nc_cat=104&_nc_oc=AQnVO0Hh8Of9FO1inrHSu15ivWTKrLT6TR5jHOdw3oF1oTI8Q_NWbR-nGkrZDduQh0k&_nc_ht=scontent.fskg1-1.fna&oh=817aed598e7250e5a1cab752118e6b49&oe=5DBD770D)
+ ![](https://scontent.fskp4-2.fna.fbcdn.net/v/t39.30808-6/273307273_4698617556932455_4767843559871165731_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=CUg4YFovQDoAX-KZWUl&_nc_ht=scontent.fskp4-2.fna&oh=00_AT_oHHphgLr3sL8pgMDZuS0lICF_RZUeYuyQ2BmaTOXeeQ&oe=6203F9F4)
 Сл. 1
 
 **2.2 Hоw to play**
 
 Во оваа форма (Сл.2) се чува упатството кое ги содржи правилата на играта.
 
- ![](https://scontent.fskg1-1.fna.fbcdn.net/v/t1.0-9/65546029_2107435506050686_8252546489784467456_n.jpg?_nc_cat=101&_nc_oc=AQkhcuxBz41ml5eVsFprt-BndAiSXAd1vLuC4s6K2A9hQ6nSiOptE-Lr4KglSe8zZmE&_nc_ht=scontent.fskg1-1.fna&oh=629cfb583d2d8be3cfd13e0614ccf0e7&oe=5D879DF5)
+ ![](https://scontent.fskp4-1.fna.fbcdn.net/v/t39.30808-6/273269913_4698617540265790_3841713322409677932_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=Lt3p9y3wp5UAX8x1t3g&_nc_ht=scontent.fskp4-1.fna&oh=00_AT-rX_ifU0bMQpfpwYSja5Ago5D4PNPbmBN0pkPkfnQ9GQ&oe=62039149)
 
 
 
@@ -36,7 +36,7 @@
 
 Во овој дел (Сл.3) се чува листа на најдобри поени, подредени по опаѓачки редослед.
 
- ![](https://scontent.fskg1-1.fna.fbcdn.net/v/t1.0-9/65281293_2107435489384021_7408129904773955584_n.jpg?_nc_cat=110&_nc_oc=AQl2wVjgas-RTAL9VSvwh7bQTW5Q4Q_UhtQpUNUXpMkLFgjJQlE14aTndY38tTNGfbU&_nc_ht=scontent.fskg1-1.fna&oh=ed90d03f3ff3b1b187c034ba1107205c&oe=5DBE3691)
+ ![](https://scontent.fskp4-2.fna.fbcdn.net/v/t39.30808-6/273377331_4698617526932458_1428770358877037300_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=xF4fNxDtRe4AX-jJ4ym&_nc_ht=scontent.fskp4-2.fna&oh=00_AT9LwoJeoz5I7Pqg5Lxak6ooGKqKKxS_lI1zxghgIyG4Jw&oe=620464CF)
 Сл. 3
 
 **2.4 Игра**
