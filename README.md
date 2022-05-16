@@ -8,14 +8,14 @@
 
 Почетното мени (сл.1) што се стартува при стартување на играта е со интересен дизајн, кој овозможува стартување на играта **(Click to play)**, пристап до упатството со правила за игра **(How to play)**, прикажување на листата на најдобри резултати **(Best players)**, одбирање на нивото за играта **(Difficulty)** и излез од игра **(Exit game)**. Доколку сакаме да стартуваме нова игра, прво треба да ја избереме едно од трите нивоа на тежина: Easy, Medium и Hard, инаку по дифолт е Easy .
 
- ![](https://scontent.fskp4-2.fna.fbcdn.net/v/t39.30808-6/273300162_4698649016929309_923042050528278420_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=0debeb&_nc_ohc=br0T6aXB9QAAX-SBDHm&_nc_ht=scontent.fskp4-2.fna&oh=00_AT9HmyTGnZkP7kvRY6hFOq2Ha1y4YxnmWqKv8hgOkT7oPQ&oe=6202E320)
+ ![](https://scontent.fskp4-2.fna.fbcdn.net/v/t39.30808-6/273300162_4698649016929309_923042050528278420_n.jpg?_nc_cat=109&ccb=1-6&_nc_sid=0debeb&_nc_ohc=SVyAg04zndAAX91h706&tn=4tpyp--dBprw0Xg2&_nc_ht=scontent.fskp4-2.fna&oh=00_AT9CMRRQuV1hv-VwvycQe9VbiJrr9JOILKf6pn9CieCz4g&oe=628761E0)
 Сл. 1
 
 **2.2 Hоw to play**
 
 Во оваа форма (Сл.2) се чува упатството кое ги содржи правилата на играта.
 
- ![](https://scontent.fskp4-2.fna.fbcdn.net/v/t39.30808-6/273405945_4698648986929312_7467524427234723876_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=0debeb&_nc_ohc=Ccn5WvfXY5wAX8oPFM_&_nc_ht=scontent.fskp4-2.fna&oh=00_AT9HKy_scgHbF-E-TnzerGag_VweouJOAAkFkT0GtLw7iQ&oe=62049686)
+ ![](https://scontent.fskp4-2.fna.fbcdn.net/v/t39.30808-6/273405945_4698648986929312_7467524427234723876_n.jpg?_nc_cat=106&ccb=1-6&_nc_sid=0debeb&_nc_ohc=zHGx_aEu11wAX8Kgtqz&_nc_ht=scontent.fskp4-2.fna&oh=00_AT-c67fCw8sLzp9Mqka4oGU3CptjVbpioaEeBUZPguGSfw&oe=62871B06)
 
 
 
@@ -36,14 +36,14 @@
 
 Во овој дел (Сл.3) се чува листа на најдобри поени, подредени по опаѓачки редослед.
 
- ![](https://scontent.fskp4-1.fna.fbcdn.net/v/t39.30808-6/273453781_4698648963595981_8900420813011449978_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=0debeb&_nc_ohc=UjOYFNN26esAX_4z4P2&tn=n_xpirU0_aLwANPh&_nc_ht=scontent.fskp4-1.fna&oh=00_AT9zsLjUvDumytBfR5SDe4aAAXa-YbolKh6LZhhMOjMxKw&oe=620486C5)
+ ![](https://scontent.fskp4-1.fna.fbcdn.net/v/t39.30808-6/273453781_4698648963595981_8900420813011449978_n.jpg?_nc_cat=102&ccb=1-6&_nc_sid=0debeb&_nc_ohc=K0vAGVjJml0AX_PA_e-&_nc_ht=scontent.fskp4-1.fna&oh=00_AT-9haEW37KdTjHJp9VyYA6w9hOpbMomzDPBylEIqycufA&oe=62870B45)
 Сл. 3
 
 **2.4 Игра**
 
 На сл.4 е прикажана интерфејсот на самата игра. Во горниот лев агол постојат копчиња за паузирање на играта и нејзино продолжување, како и за прекинување на играта. На десната страна е сместено преостатаното време, кое се намалува со секоја неубиена птица.
 
- ![](https://scontent.fskp4-1.fna.fbcdn.net/v/t39.30808-6/273200741_4698649026929308_4284239102499651125_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=0debeb&_nc_ohc=uNBFhyV0hNUAX9I_YfA&_nc_ht=scontent.fskp4-1.fna&oh=00_AT8EkfB14x3iux_QAJA-F8YODSs88N2cJBHHn4nYblNDLw&oe=62040C99)
+ ![](https://scontent.fskp4-1.fna.fbcdn.net/v/t39.30808-6/273200741_4698649026929308_4284239102499651125_n.jpg?_nc_cat=102&ccb=1-6&_nc_sid=0debeb&_nc_ohc=UxAjUsorJgwAX_eagcZ&tn=4tpyp--dBprw0Xg2&_nc_ht=scontent.fskp4-1.fna&oh=00_AT-ccbbp0maDiBDFizuVUwWa4gFJJ9sFqyPe6nBk6NyFkA&oe=62869119)
 
 
 
